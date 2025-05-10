@@ -23,7 +23,8 @@ WildfireSpreadPrediction/
 ├── DataLoader.py               # Custom dataset loader
 ├── buildmodel.py               # Model architecture definition
 ├── utils.py                    # Utility functions and custom metrics
-├── eval_model.ipynb            # Model evaluation notebook
+├── savetifdata.py              # Save .tif files from WildfireSpreadTS dataset
+├── eval_model.py               # Model evaluation and sample predictions
 └── requirements.txt            # Project dependencies
 ```
 
